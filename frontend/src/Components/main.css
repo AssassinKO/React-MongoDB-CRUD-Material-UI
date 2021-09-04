@@ -1,0 +1,36 @@
+td {
+    padding: 0;
+}
+.insertButton {
+    padding: 18px 50px;
+    cursor: pointer;
+    font-size: 20px;
+}
+#insert {
+    height: 50px;
+}
+#insert td input {
+    padding: 5px 0px;
+    font-size: 18px;
+}
+.updatebutton {
+    padding: 9px 5px;
+    margin-right: 3px;
+    cursor: pointer;
+}
+.deletebutton {
+    padding: 9px 5px;
+    cursor: pointer;
+}
+.filterBox {
+    height: 80px !important;
+    transition: 0.5;
+}
+.closeFilterBox {
+    height: 0 !important;
+    display: none;
+    transition: 0.5s;
+}
+input {
+    color: rgb(31, 30, 30);
+}

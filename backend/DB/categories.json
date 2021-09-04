@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5fc762978bc2d54bb0eafa71"},"name":"Math","imgUrl":"public\\assets\\imgs\\category\\image-a7bda999-54bb-4d77-835d-4a24eb570e98-1606902423327.JPG","isParent":true,"children":[{"$oid":"5fc7995ad0997549a0688893"}],"__v":0}
+{"_id":{"$oid":"5fc762a48bc2d54bb0eafa72"},"name":"Bussiness","imgUrl":"public\\assets\\imgs\\category\\image-4c1e3190-93e1-494d-8df4-c6248257a3e1-1606902436586.jpg","isParent":true,"children":[{"$oid":"5fc7633d8bc2d54bb0eafa74"},{"$oid":"5fc7998ad0997549a0688894"}],"__v":0}
+{"_id":{"$oid":"5fc7995ad0997549a0688893"},"name":"Calculs","imgUrl":"public\\assets\\imgs\\category\\image-28966253-700b-460b-b205-a2a07e4a68a2-1606916441979.jpg","isParent":false,"children":[],"__v":0}
+{"_id":{"$oid":"5fc7998ad0997549a0688894"},"name":"Sales","imgUrl":"public\\assets\\imgs\\category\\image-b00ba87e-8c25-4b4a-9272-df1184092950-1606916490134.jpg","isParent":false,"children":[],"__v":0}
